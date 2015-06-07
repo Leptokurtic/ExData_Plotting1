@@ -92,6 +92,6 @@ make Plot 1
 hist(power_con$Global_active_power, main="Global Active Power", xlab="Global Active Power (kilowatts)", ylab="Frequency" , col="Red")
 ```
 
-![plot of chunk hist](figure/hist-1.png) 
+![plot of chunk plot1](figure/plot1-1.png) 
 
 
