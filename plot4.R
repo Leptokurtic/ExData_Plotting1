@@ -48,7 +48,7 @@ with (power_con, {
          legend=c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"))   
         
   plot(Global_reactive_power~DateTime, type="l",
-       ylab="Global Reactive Power", xlab="datetime")
+       ylab="Global_reactive_power", xlab="datetime")
 })
               
 #create png file of "plot4"
